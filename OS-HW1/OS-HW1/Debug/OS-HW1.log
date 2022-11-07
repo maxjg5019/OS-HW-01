@@ -1,3 +1,0 @@
-﻿  Source.c
-C:\Users\MMSLAB\Desktop\OS\OS-HW1\packages\pthreads.2.9.1.4\build\native\include\pthread.h(320,17): error C2011: 'timespec': 'struct' 類型重複定義
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\time.h(43): message : 請參閱 'timespec' 的宣告
