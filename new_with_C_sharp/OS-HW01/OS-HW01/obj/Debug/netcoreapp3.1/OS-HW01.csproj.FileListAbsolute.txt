@@ -12,3 +12,17 @@ C:\Users\User\Desktop\OS-HW-01\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcor
 C:\Users\User\Desktop\OS-HW-01\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.dll
 C:\Users\User\Desktop\OS-HW-01\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.pdb
 C:\Users\User\Desktop\OS-HW-01\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.genruntimeconfig.cache
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\bin\Debug\netcoreapp3.1\OS-HW01.exe
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\bin\Debug\netcoreapp3.1\OS-HW01.deps.json
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\bin\Debug\netcoreapp3.1\OS-HW01.runtimeconfig.json
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\bin\Debug\netcoreapp3.1\OS-HW01.runtimeconfig.dev.json
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\bin\Debug\netcoreapp3.1\OS-HW01.dll
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\bin\Debug\netcoreapp3.1\OS-HW01.pdb
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.csproj.AssemblyReference.cache
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.AssemblyInfoInputs.cache
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.AssemblyInfo.cs
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.csproj.CoreCompileInputs.cache
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.dll
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.pdb
+C:\Users\MMSLAB\Desktop\OS\new_with_C_sharp\OS-HW01\OS-HW01\obj\Debug\netcoreapp3.1\OS-HW01.genruntimeconfig.cache
