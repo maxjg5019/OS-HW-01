@@ -68,7 +68,7 @@ namespace OS_HW01
 				threads_50[i].Join();
 
 			double Stop2 = Stopwatch.GetTimestamp();
-			Console.WriteLine("Using Multithread 500 = " + (Stop2 - Start2) / 100000 + "ms\n");
+			Console.WriteLine("Using Multithread 50 = " + (Stop2 - Start2) / 100000 + "ms\n");
 
 			//Multithread 10
 			double Start3 = Stopwatch.GetTimestamp();
